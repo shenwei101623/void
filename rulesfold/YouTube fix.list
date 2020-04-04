@@ -1,2 +1,4 @@
-＃> YouTube issuefix
+#> YouTube issuefix
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
 DOMAIN-SUFFIX,i.ytimg.com
