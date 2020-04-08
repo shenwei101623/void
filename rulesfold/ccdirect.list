@@ -96,9 +96,7 @@ DOMAIN-SUFFIX,bluedgames.com
 DOMAIN-SUFFIX,bldimg.com
 DOMAIN-SUFFIX,budimg.cn
 DOMAIN-SUFFIX,bldlive.com
-## > CordCloud
-DOMAIN-KEYWORD,cordcloud,DIRECT
-DOMAIN-KEYWORD,cordcord,DIRECT
+
 ## > DMM
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmm.com
