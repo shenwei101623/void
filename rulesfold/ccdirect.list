@@ -1,3 +1,3 @@
 # >CordCloud
-DOMAIN-SUFFIX,cordcloud,no-resolve
-DOMAIN-SUFFIX,cordcord,no-resolve
+DOMAIN-SUFFIX,cordcloud,DIRECT
+DOMAIN-SUFFIX,cordcord,DIRECT
