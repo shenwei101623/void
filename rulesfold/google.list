@@ -1,5 +1,6 @@
 ## 🙈 Google
 ## > Google
+DOMAIN-SUFFIX,.goog
 DOMAIN-SUFFIX,pki.goog
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,android.com
@@ -44,18 +45,10 @@ DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,.goog
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,adsense.com
 DOMAIN-SUFFIX,adwords.com
@@ -84,12 +77,11 @@ DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,1e100.net
-DOMAIN-SUFFIX,youtubegaming.com
-DOMAIN-SUFFIX,youtubeeducation.com
-DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,Google.com
 DOMAIN-SUFFIX,fonts.gstatic.com
-DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,chromecast.com
+DOMAIN-SUFFIX,chromercise.com
+DOMAIN-SUFFIX,gstatic.cn
 DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromercise.com
 DOMAIN-SUFFIX,gstatic.cn
@@ -138,7 +130,6 @@ DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,page.link
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
