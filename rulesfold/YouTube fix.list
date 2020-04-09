@@ -1,9 +1,18 @@
 #> YouTube issuefix
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,ytimg.com
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-KEYWORD,gggphd.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtube-nocookie.com
